@@ -1,0 +1,10 @@
+# cobol compiled files
+*.o
+
+# cobol accountsystem program
+accountsystem
+
+# Python
+
+.pytest_cache
+.coverage
